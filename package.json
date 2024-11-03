@@ -1,0 +1,17 @@
+{
+  "name": "testando_handlebars",
+  "version": "1.0.0",
+  "description": "Anotações sobre o handlebars",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "express-handlebars": "^8.0.1",
+    "nodemon": "^3.1.7"
+  }
+}
